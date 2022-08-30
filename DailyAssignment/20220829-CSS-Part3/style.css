@@ -1,0 +1,100 @@
+*{margin: 0px;
+    padding: 0px;
+
+}
+#header-1{
+    background-color: rgb(6, 234, 158);
+    border-radius: 5px;
+    text-align: center;
+}
+#header-2{
+    border: 2px solid blanchedalmond;
+    background-color: brown;
+    width: 50%;
+    font-size: small;
+    font-style: unset;
+}
+
+#header-3{
+    color: rgb(174, 166, 181);
+    border: 2px solid lightgreen;
+    background-color: rgb(22, 119, 149);
+    width: 50%;
+    font-style: oblique;
+    font-size: small;
+
+}
+#header-4{
+    font-style: italic;
+    border-radius: 2px;
+    border: 2px solid lightpink;
+    width: 50%;
+    color: rgb(33, 37, 33);
+    background-color: darkkhaki;
+    font-size: small;
+
+
+}
+#header-5{
+    background-color: rgb(240, 207, 124);
+    width: 50%;
+    border: 2px solid lightgreen;
+    font-size: small;
+
+}
+#header-6{
+    background-color: rgb(47, 91, 107);
+    width: 50%;
+    border: 2px solid rgb(238, 180, 144);
+    font-size: small;
+
+}
+#header-7{
+    background-color: khaki;
+    width: 50%;
+    border: 2px solid lightsalmon;
+    font-size: small;
+
+}
+#header-8{
+    background-color: darkred;
+    width: 50%;
+    border: 2px solid lightseagreen;
+    font-size: small;
+
+}
+#header-9{
+    border: 2px solid blanchedalmond;
+    background-color: brown;
+    width: 50%;
+    font-size: small;
+    font-style: unset;
+}
+#header-10{
+    color: rgb(174, 166, 181);
+    border: 2px solid lightgreen;
+    background-color: rgb(22, 119, 149);
+    width: 50%;
+    font-style: oblique;
+    font-size: small;
+
+}
+.container{
+    background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/close-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.img{
+    background-image: url(https://www.1800flowers.com/blog/wp-content/uploads/2021/05/Birthday-Flowers-Colors.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+
