@@ -1,0 +1,104 @@
+*{margin: 0px;
+    padding: 0px;
+}
+
+ .container{
+    background-color: rgb(243, 112, 112);
+    height: 1000px;
+    width: 1000px;
+    position: relative;
+}
+#header-1{
+    background-color: beige;
+    height: 200px;
+    width: 350px;
+    position: absolute;
+    left: 0%;
+    font-family: "Sofia", sans-serif;
+    
+}
+#header-2{
+    background-color: cadetblue;
+    height: 200px;
+    width: 350px;
+    position: absolute;
+    right: 0%;
+    left: 31%;
+    font-family: 'Yellowtail', cursive;
+
+}
+
+#header-3{
+    background-color: rgb(112 205 243);
+    height: 200px;
+    width: 350px;
+    position: absolute;
+    right: 0%;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+#header-4{
+    background-color: rgb(14 251 49 / 55%);
+    height: 200px;
+    width: 350px;
+    position: absolute;
+    left: 0%;
+    top: 20%;
+    font-family: 'Press Start 2P', cursive;
+
+}
+#header-5{
+    background-color: rgba(133, 212, 151, 0.94);
+    height: 200px;
+    width: 350px;
+    position: absolute;
+    right: 15%;
+    left: 31%;
+    top: 20%;
+    font-family: 'Great Vibes', cursive;
+    
+
+}
+#header-6{
+    background-color: rgb(154 147 161);
+    height: 200px;
+    width: 350px;
+    position: absolute;
+    right: 0%;
+    top: 20%;
+    font-family: 'Alfa Slab One', cursive;
+
+}
+#header-7{
+    background-color: rgb(243 112 209 / 5%);
+    height: 200px;
+    width: 350px;
+    position: absolute;
+    left: 0%;
+    top: 40%;
+    font-family: 'Tangerine', serif;
+
+
+}
+#header-8{
+    background-color: #a4bbcb;
+    height: 200px;
+    width: 350px;
+    position: absolute;
+    left: 31%;
+    top: 40%;
+    right: 20%;
+    font-family: 'Indie Flower', cursive;
+
+
+}
+#header-9{
+    background-color: #fbe9e7;
+    height: 200px;
+    width: 350px;
+    position: absolute;
+right: 0%;
+top: 40%;
+font-family: 'Monoton', cursive;
+}
