@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    height: 34px;
+    width: 100vw;
+    top: 5px;
+    background-color: burlywood;
+}
+.logo{
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 10%;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin-left: 400px;
+    margin-top: -15px;
+}
+a{
+    color:black;
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,129 @@
+*{margin: 0px;
+    padding: 0px;
+}
+.inp{
+    background-color: blue;
+    width: 600px;
+    height: 36px;
+    position: relative;
+    right: 5px;
+
+}
+
+i{
+    position: absolute;
+    left: 14px;
+    bottom: 15px;
+    color: black;
+}
+
+input{
+width: 91%;
+padding: 8px;
+padding-left: 23px;
+padding-bottom: 5px;
+padding-top: 5px;
+}
+
+
+
+.Categories{
+background-color: beige;
+height: 58px;
+width: 590px;
+position: absolute;
+}
+
+img{
+    height: 36px;
+    width: 50px;
+    margin-top: 3px;
+}
+.product-1{
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+
+}
+.product-2{
+    position: absolute;
+    left: 88px;
+
+}
+.product-3{
+    position: absolute;
+    left: 177px;
+
+}
+.product-4{
+    position: absolute;
+    right: 275px;
+
+}
+.product-5{
+    position: absolute;
+    right: 187px;
+
+}
+
+.product-6{
+    position: absolute;
+    right: 99px;
+    
+
+}
+.product-7{
+    position: absolute;
+    right: 12px;
+
+}
+#Item{
+    background-color: rgba(246, 246, 111, 0.97);
+    width: 591px;
+    height: 350px;
+    position: relative;
+    top: 58px;
+}
+
+.h4{
+    height: 25px;
+    width: 25px;
+}
+
+.box {
+    width: 240px;
+    height: 112px;
+}
+.images-1{
+    position: absolute;
+    left: 42px;
+    top: 40px;
+    background-color: white;
+
+}
+
+.images-2{
+    top: 40px;
+    position: absolute;
+    right: 63px;
+    background-color: white;
+
+}
+
+.images-3{
+    position: absolute;
+    left: 42px;
+    bottom: 5px;
+    background-color: white;
+}
+
+.images-4{
+    position: absolute;
+    right: 63px;
+    bottom: 5px;
+    background-color: white;
+}
+
+
+
+
